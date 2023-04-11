@@ -21,6 +21,4 @@ HELP_COMMAND: str = '''
 <b>7) /find</b> - <em>найти контакт</em>
 <b>8) /stop</b> - <em>завершит работу с ботом</em>'''
 
-API_TOKEN: str = '6095174890:AAGXxm5XbEJrmAXBxOgVI9zGyHKWLUfktW0'
-
 admin_ids: list[int] = [814712435]
